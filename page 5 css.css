@@ -1,0 +1,99 @@
+body{
+    background-color: #D8D8D8;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-left:10%;
+  margin-right: 10.4%;
+}
+#snake{
+    margin-left: 50%;
+}
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: dodgerblue;
+}
+.active {
+  background-color: #4CAF50;
+}
+h1{
+    margin-left: 10.7%;
+    font-family: 'Nunito', sans-serif;
+
+    
+}
+h4{
+   margin-left: 16%; 
+   font-family: 'Nunito', sans-serif; 
+   margin-right: 12%;    
+ 
+    
+}
+h3{
+   margin-left: 15%; 
+   font-family: 'Nunito', sans-serif;
+   margin-right: auto; 
+   color:dodgerblue;
+  
+}
+#about{
+     color: dodgerblue;
+     
+}
+/* Add a gray right border to all list items, except the last item (last-child) */
+li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+h1{
+    color:dodgerblue;
+    margin-left:10%;
+    margin-right: 10%;
+}
+u{
+    color:dodgerblue;
+}
+#banner{
+    margin-left: 10%;
+    
+    
+}
+h2{
+    color: dodgerblue;
+    margin-left: 12%;
+    font-family: 'Nunito', sans-serif;
+}
+hr{
+    margin-left: 12%;
+    margin-right:12%;    
+}
+button{
+    margin-left: 10%;
+    
+}
+li a:hover {
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+#hq{
+    color:black;
+    margin-right: 12%;
+}
